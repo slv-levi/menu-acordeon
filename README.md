@@ -4,11 +4,12 @@ Projeto desenvolvido para praticar a criação de um menu acordeon interativo, o
 
 O projeto foi desenvolvido com foco em HTML, CSS e JavaScript, explorando conceitos de estruturação de páginas, estilização e manipulação do DOM para criar uma interação simples e intuitiva.
 
-🚀 Funcionalidades
-Exibição e ocultação de conteúdo ao clicar nos itens;
-Interação dinâmica utilizando JavaScript;
-Animações e estilização com CSS;
-Layout responsivo para diferentes tamanhos de tela;
+🚀 Funcionalidades: <br>
+
+Exibição e ocultação de conteúdo ao clicar nos itens;<br>
+Interação dinâmica utilizando JavaScript;<br>
+Animações e estilização com CSS;<br>
+Layout responsivo para diferentes tamanhos de tela;<br>
 Interface simples e intuitiva.
 
 🎯 Objetivo
