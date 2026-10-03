@@ -10,10 +10,7 @@ Interação dinâmica utilizando JavaScript;
 Animações e estilização com CSS;
 Layout responsivo para diferentes tamanhos de tela;
 Interface simples e intuitiva.
-🛠️ Tecnologias utilizadas
-HTML5
-CSS3
-JavaScript
+
 🎯 Objetivo
 
 O objetivo do projeto é colocar em prática conhecimentos de JavaScript e manipulação do DOM, desenvolvendo uma interface interativa e aprimorando conceitos fundamentais de desenvolvimento Front-end.
@@ -23,7 +20,7 @@ O objetivo do projeto é colocar em prática conhecimentos de JavaScript e manip
 <img width="1876" height="920" alt="Image" src="https://github.com/user-attachments/assets/00ee0618-58b3-45e1-a424-32bf7a5de282" />
 <br><a href="https://slv-levi.github.io/menu-acordeon/" target="_blank">link para a página.</a>
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 - HTML;
 - CSS;
 - JAVASCRIPT;
